@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+__author__ = 'wardseptember'
+__date__ = '18-10-18'
+
+
 import requests
 from bs4 import BeautifulSoup
 import time
