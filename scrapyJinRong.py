@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import urllib.request
 import requests
 from bs4 import BeautifulSoup
 import time
@@ -8,12 +7,9 @@ import time
 def get_chapter(url):
     # 获取网页的源代码
     try:
-        #html = urllib.request.urlopen(url)
         html=requests.get(url,timeout=100)
-        #content = html.read().decode('utf8')
         html.encoding = html.apparent_encoding
         content=html.content
-        html.close()
         # 将网页源代码解析成HTML格式
         soup = BeautifulSoup(content, "lxml")
         title = soup.find('h1').text    #获取章节的标题
@@ -37,7 +33,9 @@ def main():
     page_range = [1,43,94,145,185,225,248,289,309,329,341,362,363,364,374,385]
 
     for i,book in enumerate(books):
-        with open('D://jinyong1//%s.txt'%book, 'w', encoding='gb18030') as f1:
+        # linux版本,wardseptember替换成你的linux主机名
+        with open('//home//wardseptember//jinyong//%s.txt' % book, 'w', encoding='utf-8') as f1:
+        #with open('D://jinyong//%s.txt'%book, 'w', encoding='gb18030') as f1:#window版本
             f1.close()
             pass
         for num in range(page_range[i],page_range[i+1]):
@@ -47,7 +45,9 @@ def main():
             try:
                 title, chapter = get_chapter(url)
                 time.sleep(2)
-                with open('D://jinyong1//%s.txt'%book, 'a', encoding='gb18030') as f:
+                # linux版本,wardseptember替换成你的linux主机名
+                with open('//home//wardseptember//jinyong//%s.txt'%book, 'a', encoding='utf-8') as f:
+                #with open('D://jinyong1//%s.txt'%book, 'a', encoding='gb18030') as f:#windows版本
                     print(book+':'+title+'-->写入成功！')
                     f.write(title+'\n\n\n')
                     f.write(chapter+'\n\n\n')
