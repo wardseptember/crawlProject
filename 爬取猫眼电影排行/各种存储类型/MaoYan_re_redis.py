@@ -31,7 +31,7 @@ def parse_one_page(html):
             'score': item[5]+item[6]
         }
 
-def write_to_file(content):
+def write_to_redis(content):
     redis=StrictRedis(host='localhost',port=6379,db=0,password='foobared')
     redis.lpush('index',content['index'])
     redis.lpush('image',content['image'])
@@ -45,10 +45,11 @@ def main(offset):
     url = 'http://maoyan.com/board/4?offset=' + str(offset)
     html = get_one_page(url)
     for item in parse_one_page(html):
-        #print(item)
-        write_to_file(item)
+        print(item)
+        write_to_redis(item)
 
 
 if __name__ == '__main__':
     for i in range(10):
         main(offset=i*10)
+    print("全部写入完成")
