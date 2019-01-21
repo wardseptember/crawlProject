@@ -39,14 +39,7 @@ def write_to_file(content):
     redis.lpush('actor',content['actor'])
     redis.lpush('time',content['time'])
     redis.lpush('score',content['score'])
-    res=redis.pipeline()
-    keys=redis.keys()
-    key_list=[]
-    for key in keys:
-        key_list.append(key)
-        res.get(key)
-    for k,v in zip(key_list,res.execute()):
-        print(k,v)
+
 
 def main(offset):
     url = 'http://maoyan.com/board/4?offset=' + str(offset)
