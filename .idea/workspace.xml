@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88fd57dd-29ce-4db5-9dad-fe3e0f6b42bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +13,16 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/crawlProject$crawlMaoYan_xpath.coverage" NAME="crawlMaoYan_xpath Coverage Results" MODIFIED="1547969689671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawlProject$MaoYan_re_redis__1_.coverage" NAME="MaoYan_re_redis (1) Coverage Results" MODIFIED="1548073162948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型" />
+    <SUITE FILE_PATH="coverage/crawlProject$crawlDuBianChunYi.coverage" NAME="crawlDuBianChunYi Coverage Results" MODIFIED="1548580306332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
     <SUITE FILE_PATH="coverage/crawlProject$crawlDouban.coverage" NAME="crawlDouban Coverage Results" MODIFIED="1539864371464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawlProject$addChapter.coverage" NAME="addChapter Coverage Results" MODIFIED="1548640596444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
+    <SUITE FILE_PATH="coverage/crawlProject$crawlTaDu_selenium.coverage" NAME="crawlTaDu_selenium Coverage Results" MODIFIED="1548664253991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
     <SUITE FILE_PATH="coverage/crawlProject$MaoYan_re_mongodb.coverage" NAME="MaoYan_re_mongodb Coverage Results" MODIFIED="1548058195275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取猫眼电影排行" />
     <SUITE FILE_PATH="coverage/crawlProject$crawlMaoYan_pyquery.coverage" NAME="crawlMaoYan_pyquery Coverage Results" MODIFIED="1547979459673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawlProject$MaoYan_re_redis.coverage" NAME="MaoYan_re_redis Coverage Results" MODIFIED="1548073149984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取猫眼电影排行" />
+    <SUITE FILE_PATH="coverage/crawlProject$crawlTaDuFiction.coverage" NAME="crawlTaDuFiction Coverage Results" MODIFIED="1548665723049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
+    <SUITE FILE_PATH="coverage/crawlProject$crawlFictionTemplate.coverage" NAME="crawlFictionTemplate Coverage Results" MODIFIED="1548597118569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
+    <SUITE FILE_PATH="coverage/crawlProject$crawlFictionTemplate_2.coverage" NAME="crawlFictionTemplate_2 Coverage Results" MODIFIED="1548638498931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
     <SUITE FILE_PATH="coverage/crawlProject$crawlJinRong.coverage" NAME="crawlJinRong Coverage Results" MODIFIED="1539965271561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取小说" />
     <SUITE FILE_PATH="coverage/crawlProject$scrapyJinRong.coverage" NAME="scrapyJinRong Coverage Results" MODIFIED="1539856659442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawlProject$MaoYao_re_csv.coverage" NAME="MaoYao_re_csv Coverage Results" MODIFIED="1548046899330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬取猫眼电影排行" />
@@ -31,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/爬取豆瓣/crawlDouban.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="1235">
               <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
               <folding>
                 <element signature="e#112#147#0" expanded="true" />
@@ -40,23 +46,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬取小说/crawlDuBianChunYi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            <state relative-caret-position="361">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <element signature="e#88#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬取小说/crawlFictionTemplate_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding>
+                <element signature="e#77#92#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/crawlMaoYan_re.py">
+        <entry file="file:///usr/lib/python3.5/json/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="24" selection-end-line="47" selection-end-column="25" />
-              <folding>
-                <element signature="e#68#79#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="3420">
+              <caret line="181" column="4" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5928">
+              <caret line="328" column="21" selection-start-line="328" selection-start-column="18" selection-end-line="328" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬取小说/addChapter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,6 +124,12 @@
         <option value="$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_redis.py" />
         <option value="$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mysql.py" />
         <option value="$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py" />
+        <option value="$PROJECT_DIR$/爬取小说/crawlDuBianChunYi.py" />
+        <option value="$PROJECT_DIR$/爬取小说/crawlFictionTemplate.py" />
+        <option value="$PROJECT_DIR$/爬取小说/addChapter.py" />
+        <option value="$PROJECT_DIR$/爬取小说/crawlFictionTemplate_2.py" />
+        <option value="$PROJECT_DIR$/爬取小说/crawlTaDu_selenium.py" />
+        <option value="$PROJECT_DIR$/爬取小说/crawlTaDuFiction.py" />
       </list>
     </option>
   </component>
@@ -105,6 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,24 +158,12 @@
             <path>
               <item name="crawlProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="crawlProject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬取猫眼电影排行" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawlProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crawlProject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬取猫眼电影排行" type="462c0819:PsiDirectoryNode" />
-              <item name="各种存储类型" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crawlProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crawlProject" type="462c0819:PsiDirectoryNode" />
-              <item name="爬取豆瓣" type="462c0819:PsiDirectoryNode" />
+              <item name="爬取小说" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,8 +186,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaoYan_re_redis (1)">
-    <configuration name="MaoYan_re_mongodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.crawlTaDuFiction">
+    <configuration name="addChapter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawlProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取猫眼电影排行" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取小说" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mongodb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取小说/addChapter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaoYan_re_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawlFictionTemplate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawlProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +217,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取猫眼电影排行" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取小说" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取小说/crawlFictionTemplate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaoYan_re_redis (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawlFictionTemplate_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawlProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,12 +239,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取小说" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取小说/crawlFictionTemplate_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaoYan_re_redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawlTaDuFiction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawlProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,12 +261,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取猫眼电影排行" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取小说" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_redis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取小说/crawlTaDuFiction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MaoYao_re_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="crawlTaDu_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawlProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,12 +283,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取猫眼电影排行" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬取小说" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取猫眼电影排行/MaoYao_re_csv.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬取小说/crawlTaDu_selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,19 +303,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.MaoYao_re_csv" />
-      <item itemvalue="Python.MaoYan_re_mysql" />
-      <item itemvalue="Python.MaoYan_re_mongodb" />
-      <item itemvalue="Python.MaoYan_re_redis" />
-      <item itemvalue="Python.MaoYan_re_redis (1)" />
+      <item itemvalue="Python.crawlFictionTemplate" />
+      <item itemvalue="Python.crawlFictionTemplate_2" />
+      <item itemvalue="Python.addChapter" />
+      <item itemvalue="Python.crawlTaDuFiction" />
+      <item itemvalue="Python.crawlTaDu_selenium" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MaoYan_re_redis (1)" />
-        <item itemvalue="Python.MaoYan_re_redis" />
-        <item itemvalue="Python.MaoYan_re_mongodb" />
-        <item itemvalue="Python.MaoYan_re_mysql" />
-        <item itemvalue="Python.MaoYao_re_csv" />
+        <item itemvalue="Python.crawlTaDuFiction" />
+        <item itemvalue="Python.crawlTaDu_selenium" />
+        <item itemvalue="Python.addChapter" />
+        <item itemvalue="Python.crawlFictionTemplate_2" />
+        <item itemvalue="Python.crawlFictionTemplate" />
       </list>
     </recent_temporary>
   </component>
@@ -301,11 +332,15 @@
       <workItem from="1547951144302" duration="19065000" />
       <workItem from="1548045378168" duration="16507000" />
       <workItem from="1548073118437" duration="723000" />
+      <workItem from="1548489933242" duration="597000" />
+      <workItem from="1548576809502" duration="18829000" />
+      <workItem from="1548637356161" duration="21730000" />
+      <workItem from="1548833617203" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36295000" />
+    <option name="totallyTimeSpent" value="77469000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -318,14 +353,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2756972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21912351" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27131784" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29147288" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,13 +383,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scrapyJinRong.py" />
     <entry file="file://$PROJECT_DIR$/crawlDouban.py" />
-    <entry file="file:///usr/lib/python3.5/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawlMaoYan_xpath.py" />
     <entry file="file://$PROJECT_DIR$/crawlMaoYan_re.py" />
     <entry file="file://$PROJECT_DIR$/crawlMaoYan_bs4.py" />
@@ -374,27 +401,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.5/dist-packages/pyquery/pyquery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="404" column="35" selection-start-line="404" selection-start-column="35" selection-end-line="404" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawlExpressInfo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬取小说/crawlJinRong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#77#92#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -434,46 +444,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="32" selection-start-line="32" selection-end-line="35" selection-end-column="17" />
-          <folding>
-            <element signature="e#68#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/result_re.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_redis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="33" selection-start-line="33" selection-end-line="40" selection-end-column="41" />
-          <folding>
-            <element signature="e#68#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="e#68#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mongodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="32" selection-start-line="32" selection-end-line="36" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_json.py" />
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/result_re.csv" />
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_redis.py" />
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_mongodb.py" />
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_csv.py" />
     <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/crawlMaoYan_re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -484,16 +460,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/MaoYan_re_csv.py">
+    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="32" selection-start-line="32" selection-end-line="39" />
+        <state relative-caret-position="462">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1247971764/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="686" column="33" selection-start-line="686" selection-start-column="22" selection-end-line="686" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7153">
+          <caret line="212" column="18" selection-start-line="212" selection-start-column="18" selection-end-line="212" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/pyquery/pyquery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5890">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlJinRong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#77#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlFictionTemplate.py" />
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlFictionTemplate_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="47" selection-start-line="47" selection-end-line="88" selection-end-column="34" />
+          <folding>
+            <element signature="e#77#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlTaDu_selenium.py" />
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlTaDuFiction.py" />
     <entry file="file://$PROJECT_DIR$/爬取豆瓣/crawlDouban.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="1235">
           <caret line="66" column="24" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
           <folding>
             <element signature="e#112#147#0" expanded="true" />
@@ -501,10 +528,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬取猫眼电影排行/各种存储类型/MaoYan_re_redis.py">
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlDuBianChunYi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        <state relative-caret-position="361">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#88#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="181" column="4" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5928">
+          <caret line="328" column="21" selection-start-line="328" selection-start-column="18" selection-end-line="328" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取小说/addChapter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬取小说/crawlFictionTemplate_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#77#92#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
